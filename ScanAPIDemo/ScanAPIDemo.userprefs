@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="..\SampleFutronicScanDemo\SampleFutronicScanDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\SampleFutronicScanDemo\Program.cs">
+    <Files>
+      <File FileName="..\SampleFutronicScanDemo\Program.cs" Line="32" Column="62" />
+      <File FileName="Form1.cs" Line="12" Column="29" />
+      <File FileName="Program.cs" Line="5" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
